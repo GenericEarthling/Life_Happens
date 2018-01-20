@@ -1,9 +1,9 @@
 <?php
 
 $db_username = 'stender';
-$db_password = 'xurq6kqN';
-$db_name = 'site18db';
-$db_host = 'mysql.yaacotu.com';
+$db_password = 'RaT3oTu-42';
+$db_name = 'LifeHappens';
+$db_host = 'mysql.yaacotu.com'; // 107.180.40.137  // localhost
 
 // can declare global variables here
 
