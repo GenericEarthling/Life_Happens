@@ -1,7 +1,7 @@
 <?php
 
 $db_username = 'stender';
-$db_password = 'RaT3oTu-42';
+$db_password = '';
 $db_name = 'LifeHappens';
 $db_host = 'mysql.yaacotu.com'; // 107.180.40.137  // localhost
 
